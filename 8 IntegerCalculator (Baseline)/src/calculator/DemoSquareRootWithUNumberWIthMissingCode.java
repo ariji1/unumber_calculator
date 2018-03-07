@@ -12,7 +12,7 @@ package calculator;
  * <p> Copyright: Lynn Robert Carter © 2017 </p>
  * 
  * @author Lynn Robert Carter
- * @modified by S. Jyothsna
+ * @modified by Arijit Mukherjee
  * @version 1.00	Initial baseline
  * 
  */
